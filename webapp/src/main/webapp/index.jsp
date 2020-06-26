@@ -14,4 +14,4 @@ Buil 31 failes due to a cap in the repository .Hope the build 32 should work
    
    Dude build version 39 please 
    
-   Demo to veera annaa. 
+   run in 26 june  
